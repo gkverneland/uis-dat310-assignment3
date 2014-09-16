@@ -1,1 +1,11 @@
-﻿
+﻿div.searchbox {
+    max-width:300px;margin-bottom:20px;
+}
+
+.buttons {
+    margin-bottom: 20px;
+}
+
+#addressbook_filter label input{
+    margin-left: 10px;
+}
